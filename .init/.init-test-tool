@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/quickassist-vehicle-service-40831-40840/mechanic_finder_backend"
+}
